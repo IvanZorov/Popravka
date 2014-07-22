@@ -1,0 +1,17 @@
+1.Euation Generator
+
+	-  finds the solution of current task/condition
+
+	-  generates random numbers from min to max
+
+2.HTML_PDFGen
+	
+	- generates tests and answers in PDF format
+
+	- generates tests and answers in HTML format
+
+3.Main
+
+	-  executes the program
+
+	- input handling
