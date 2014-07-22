@@ -10,10 +10,10 @@ Popravka
 2.How to setup: 
   - Windows:  https://forwardhq.com/support/installing-ruby-windows
   - Ubuntu:         
-        $ sudo gem update --system
-        $ gem install rubygems-update
-        $ sudo update_rubygems
-        $ sudo gem install prawn
+  -     $ sudo gem update --system
+  -     $ gem install rubygems-update
+  -     $ sudo update_rubygems
+  -     $ sudo gem install prawn
 
 3.How to run:
 
