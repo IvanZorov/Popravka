@@ -1,9 +1,9 @@
 class EquationGenerator
 
 	def Kvadratno
-		a = NumGen 1,7
-		b = NumGen 2,11
-		c = NumGen 3,14
+		a = NumGen 1,6
+		b = NumGen 12,15
+		c = NumGen 3,10
 
 		d = (b ** 2) - (4 * a * c)
 		
